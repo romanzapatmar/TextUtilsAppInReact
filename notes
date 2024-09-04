@@ -1,0 +1,76 @@
+--Why we not push node module on git
+Ans : its too heavy to push.
+
+--Important file of react
+Ans. Package.js
+
+--What is components in react? and Type?
+-- part of any things.
+react- piece of that can we reuse like function
+but components are more powerful than function(header,footer,sidebar)
+Ans : class & functional components
+
+Type-
+class&functional components
+
+1.High order components
+2.Pure components
+3. controlled & uncontrolled components
+4.class&functional components
+
+==========
+functional components -- default components
+class- components
+1.
+
+
+====React Tutorial by Code with harry--
+1. Intro of React
+2. Installation & first react app
+3. JS Refresher --jS concepts
+4. understanding JSX
+
+=====How to install bootstrap ? ===
+ npm i bootstrap@5.3.0 use this in terminal
+ import 'bootstrap/dist/css/bootstrap.css';
+
+
+=================================
+4. understanding JSX
+    use fragments for adding more elements in a div (e.g. <></>)
+    function base componenets --latest use in react
+    class base components
+    class is use className & for is use as htmlFor in react
+    jsx returns only one element
+    if we want to write js in jsx use {name},like
+
+=======================================
+5. Project 1: Setup + Adding Bootstrap to React (Text Utitlities)
+
+==================================================
+6. Understanding Props and PropTypes in React
+    props - properties
+    --
+    How to make components
+    -- always make components file name start with capital letter. (Navbar.js)
+======================================================
+6. understanding states in react
+
+    --- useState -- is a Hook    - there are many hooks in react
+    --how to handle event
+    ---how to set state
+    ---how to change state
+    -- use states
+
+=========================================================
+7. Exercise one
+    1. adding clear function
+=========================================================
+8. creating "Enable Dark mode" 
+========================================================
+9. adding auto dismissed alert
+========================================================
+10. changing title dynamically- adding favicons
+==========================================================
+11. React router-
+    - use npm install react-router-dom --to install react router
